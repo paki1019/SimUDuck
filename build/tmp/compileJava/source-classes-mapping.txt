@@ -1,0 +1,30 @@
+RedheadDuck.java
+ RedheadDuck
+Squeak.java
+ Squeak
+Quack.java
+ Quack
+MiniDuckSimulator.java
+ MiniDuckSimulator
+Quackable.java
+ Quackable
+Duck.java
+ Duck
+RubberDuck.java
+ RubberDuck
+QuackBehavior.java
+ QuackBehavior
+FlyNoWay.java
+ FlyNoWay
+DecoyDuck.java
+ DecoyDuck
+FlyBehavior.java
+ FlyBehavior
+FlyWithWings.java
+ FlyWithWings
+Flyable.java
+ Flyable
+MallardDuck.java
+ MallardDuck
+MuteQuack.java
+ MuteQuack
